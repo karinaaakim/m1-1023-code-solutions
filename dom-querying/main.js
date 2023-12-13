@@ -3,7 +3,7 @@ const heading = document.querySelector('h1');
 console.log('heading', heading);
 console.dir(heading);
 
-const explanation = document.querySelector('explanation');
+const explanation = document.querySelector('#explanation');
 
 console.log('explanation', explanation);
 console.dir(explanation);
